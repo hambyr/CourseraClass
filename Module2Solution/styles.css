@@ -16,6 +16,8 @@ h1{
 h2{
 	background: none;
 	border: solid  black 2px;
+	border-right: 0px;
+	border-top: 0px;
 	width:33%;
 	margin: 0;
 	float:right;
